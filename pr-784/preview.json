@@ -1,0 +1,43 @@
+{
+  "pr": 784,
+  "title": "Runtime: same-result speed-ups so each day runs in ~7 min or less",
+  "head_sha": "ca85c3c18ebe5a6bc1d02b930aed006797cb2f05",
+  "pages": [
+    "chapter0_fundamentals/instructions/pages/03_[0.3]_Optimization.md",
+    "chapter1_transformer_interp/instructions/pages/11_[1.3.1]_Linear_Probes.md",
+    "chapter1_transformer_interp/instructions/pages/22_[1.4.2]_SAE_Circuits.md",
+    "chapter1_transformer_interp/instructions/pages/32_[1.5.2]_Grokking_&_Modular_Arithmetic.md",
+    "chapter1_transformer_interp/instructions/pages/34_[1.5.4]_Toy_Models_of_Superposition_&_SAEs.md",
+    "chapter4_alignment_science/instructions/pages/01_[4.1]_Emergent_Misalignment.md",
+    "chapter4_alignment_science/instructions/pages/03_[4.3]_Interpreting_Reasoning_Models.md"
+  ],
+  "notebooks": [
+    "chapter0_fundamentals/exercises/part3_optimization/0.3_Optimization_exercises.ipynb",
+    "chapter0_fundamentals/exercises/part3_optimization/0.3_Optimization_solutions.ipynb",
+    "chapter1_transformer_interp/exercises/part31_linear_probes/1.3.1_Linear_Probes_exercises.ipynb",
+    "chapter1_transformer_interp/exercises/part31_linear_probes/1.3.1_Linear_Probes_solutions.ipynb",
+    "chapter1_transformer_interp/exercises/part42_sae_circuits/1.4.2_SAE_Circuits_exercises.ipynb",
+    "chapter1_transformer_interp/exercises/part42_sae_circuits/1.4.2_SAE_Circuits_solutions.ipynb",
+    "chapter1_transformer_interp/exercises/part52_grokking_and_modular_arithmetic/1.5.2_Grokking_&_Modular_Arithmetic_exercises.ipynb",
+    "chapter1_transformer_interp/exercises/part52_grokking_and_modular_arithmetic/1.5.2_Grokking_&_Modular_Arithmetic_solutions.ipynb",
+    "chapter1_transformer_interp/exercises/part54_toy_models_of_superposition_and_saes/1.5.4_Toy_Models_of_Superposition_&_SAEs_exercises.ipynb",
+    "chapter1_transformer_interp/exercises/part54_toy_models_of_superposition_and_saes/1.5.4_Toy_Models_of_Superposition_&_SAEs_solutions.ipynb",
+    "chapter4_alignment_science/exercises/part1_emergent_misalignment/4.1_Emergent_Misalignment_exercises.ipynb",
+    "chapter4_alignment_science/exercises/part1_emergent_misalignment/4.1_Emergent_Misalignment_solutions.ipynb",
+    "chapter4_alignment_science/exercises/part3_interpreting_reasoning_models/4.3_Interpreting_Reasoning_Models_exercises.ipynb",
+    "chapter4_alignment_science/exercises/part3_interpreting_reasoning_models/4.3_Interpreting_Reasoning_Models_solutions.ipynb"
+  ],
+  "exercise_files": [
+    "chapter0_fundamentals/exercises/fundamentals_utils.py",
+    "chapter0_fundamentals/exercises/part3_optimization/solutions.py",
+    "chapter1_transformer_interp/exercises/part31_linear_probes/solutions.py",
+    "chapter1_transformer_interp/exercises/part31_linear_probes/utils.py",
+    "chapter1_transformer_interp/exercises/part42_sae_circuits/solutions.py",
+    "chapter1_transformer_interp/exercises/part52_grokking_and_modular_arithmetic/solutions.py",
+    "chapter1_transformer_interp/exercises/part54_toy_models_of_superposition_and_saes/solutions.py",
+    "chapter4_alignment_science/exercises/part1_emergent_misalignment/solutions.py",
+    "chapter4_alignment_science/exercises/part1_emergent_misalignment/utils.py",
+    "chapter4_alignment_science/exercises/part3_interpreting_reasoning_models/solutions.py",
+    "chapter4_alignment_science/exercises/part3_interpreting_reasoning_models/utils.py"
+  ]
+}
